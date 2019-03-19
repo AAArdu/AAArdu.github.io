@@ -12,7 +12,7 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Writing"
     url: /year-archive/
     
 #  - title: "CV"
@@ -20,6 +20,3 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
-
-  - title: "Code"
-    url: /code
